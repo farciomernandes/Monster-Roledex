@@ -17,7 +17,7 @@
 
 1. Install all dependencies
     ```
-    npm start
+    npm install
     ```
 
 2. Initialize 
