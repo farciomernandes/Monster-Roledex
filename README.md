@@ -3,6 +3,9 @@
   <p>
   Simple project that receive data from https://robohash.org , https://jsonplaceholder.typicode.com and render.
   </p>
+  <p>
+  This project are in deploy on https://farciomernandes.github.io/Monster-Roledex/
+  </p
 </div>
  </div>
 
